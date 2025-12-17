@@ -1,0 +1,11 @@
+algorithm arena day 1
+ques1 
+https://leetcode.com/problems/add-digits/submissions/1858167913
+
+ques 2
+https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/submissions/1858123916
+ 
+ques3 having doubt
+
+ques 4 
+https://leetcode.com/problems/score-of-a-string/submissions/1858160661
